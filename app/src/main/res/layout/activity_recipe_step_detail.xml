@@ -7,4 +7,9 @@
   android:layout_height="match_parent"
   tools:context="com.example.alogvinenko.bakingapp.RecipeStepDetail">
 
+  <FrameLayout
+    android:id="@+id/recipe_list_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
+
 </android.support.constraint.ConstraintLayout>
